@@ -3,7 +3,12 @@
 
 <br>
 
-## 💻Tech Stack
+## ✏️Blog :
+Notion : https://sun-friday-12a.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3312758ec6af4e318489abb92fe1b2eb
+
+<br>
+
+## 💻Tech Stack :
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=Spring%20Boot&logoColor=white&)
