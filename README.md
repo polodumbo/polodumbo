@@ -1,14 +1,14 @@
-## 💫About Me :
+## 💫About Me
 반갑습니다! 성장하고 있는 백엔드 개발자 이성훈 입니다 :D
 
 <br>
 
-## ✏️Blog :
-Notion : https://sun-friday-12a.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3312758ec6af4e318489abb92fe1b2eb
+## ✏️Notion
+공부기록 : https://sun-friday-12a.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3312758ec6af4e318489abb92fe1b2eb
 
 <br>
 
-## 💻Tech Stack :
+## 💻Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=Spring%20Boot&logoColor=white&)
@@ -32,7 +32,7 @@ Notion : https://sun-friday-12a.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3
 
 <br>
 
-## 📊GitHub Stats :
+## 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=polodumbo&theme=react&hide_border=true&include_all_commits=true&count_private=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=polodumbo&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
