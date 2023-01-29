@@ -1,13 +1,11 @@
 ## 💫About Me
 반갑습니다! 성장하고 있는 백엔드 개발자 이성훈 입니다 :D
-
 <br/>
 
 ## ✏️Notion
 [🐈이성훈 포트폴리오 | 꾸준히 성장하는 개발자](https://polodumbo.notion.site/1850130177a441a5b4b509dc0c6d83d1)
 <br/>
 [📚공부기록](https://polodumbo.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3312758ec6af4e318489abb92fe1b2eb)
-
 <br/>
 
 ## 💻Tech Stack
@@ -31,7 +29,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
 <br/>
 
 ## 📊GitHub Stats
