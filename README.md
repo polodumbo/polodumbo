@@ -3,8 +3,6 @@
 <br/>
 
 ## ✏️Notion
-[🐈이성훈 포트폴리오 | 꾸준히 성장하는 개발자](https://polodumbo.notion.site/1850130177a441a5b4b509dc0c6d83d1)
-<br/>
 [📚공부기록](https://polodumbo.notion.site/cba1f0ca2dc44c8dad38efb92bc2304f?v=3312758ec6af4e318489abb92fe1b2eb)
 <br/>
 
