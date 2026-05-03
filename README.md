@@ -12,6 +12,9 @@
 ### 💼 Experience
 - 2023.05 ~ 2024.06 - **주식회사평화아이씨티** | 개발팀 사원
 </br></br>
+### 🎓 Education
+- 2025.07 ~ 2026.01 - **코드잇 스프린트** | AWS 활용 Spring 백엔드 개발자 실무 부트캠프 수료
+</br></br>
 ### 🌱 Currently Studying & Interested In
 - 서비스 안정성 확보를 위한 Prometheus/Grafana 기반의 실시간 대시보드 구축 및 알림 시스템 학습 중
 - 대용량 트래픽 처리 및 성능 최적화
